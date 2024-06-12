@@ -1,0 +1,38 @@
+body {
+  background-color: mediumvioletred;
+  color: mistyrose;
+  align-content: center;
+  margin-left: 200px;
+}
+
+div {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+input {
+  margin-left: 5px;
+}
+
+h2 {
+  text-align: center;
+  margin-right: 100px;
+}
+
+button {
+  background-color: darkblue;
+  color: white;
+}
+
+#file {
+  background-color: darkseagreen;
+  color: darkblue;
+  font-weight: bold;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 170px;
+}
